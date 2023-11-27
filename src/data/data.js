@@ -1,5 +1,5 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
+import WorkIm from '../assets/projects/project1.png'
+import RealEst from '../assets/projects/project2.png'
 
 export const data=[
     {
@@ -13,23 +13,9 @@ export const data=[
         id:2,
         name:"React JS Application",
         image:RealEst,
-        github:"",
-        live:"",
+        github:"https://github.com/Nic-Horton/shelfmate",
+        live:"https://shelfmate-io.onrender.com/",
     },
-    {
-        id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
-    },
-    {
-        id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
-
+   
 
 ]
